@@ -1,4 +1,0 @@
-
-@interface GameMenuItemLabel : CCMenuItemLabel
-
-@end
